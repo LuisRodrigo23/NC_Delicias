@@ -28,7 +28,7 @@ function Navbar() {
                             <div className="block lg:hidden">
                                 <button
                                     onClick={handleMenuClick} // Manejar el clic del botón del menú
-                                    className="navbar-burger flex items-center px-3 py-2 border rounded text-white border-white hover:text-white hover:border-white">
+                                    className="navbar-burger flex items-center px-3 py-2 border rounded text-white border-none hover:text-white hover:border">
                                     <svg className="fill-current h-6 w-6 text-gray-700" viewBox="0 0 20 20"
                                         xmlns="http://www.w3.org/2000/svg">
                                         <title>Menu</title>

@@ -29,7 +29,7 @@ function SectionPrice() {
                         title: "Cheese Nai's",
                         description:
                             "Garantizamos a los clientes pasar un buen tiempo con familia o amigos degustando de los cheesecakes que ofrecen dulzura y variedad de sabores característicos que los distinguen de otros cheesecakes. Son saludables, tradicionales y personalizados dependiendo de lo que desee el cliente. ",
-                        imgSrc: "https://i.postimg.cc/xCzvGxN1/img-Products.jpg",
+                        imgSrc: "https://i.postimg.cc/zvwT6yjm/448427755-1248364163239611-6793991713541956325-n-removebg-2.png",
                     },
                 ].map((card, index) => (
                     <div

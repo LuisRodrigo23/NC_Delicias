@@ -11,25 +11,25 @@ function SectionPrice() {
                         title: "Cheese Nai's de Fresa",
                         description:
                             "Rojo (en las fresas y el borde del logo): Simboliza la pasión y el amor en la preparación de cada cheesecakes. Amarillo (en el cheesecake): Representa que cada bocado está lleno de un sabor delicioso e inigualable. Celeste (en el fondo del círculo): Representa confianza y tranquilidad, asegurando a los clientes un producto consistente y confiable en sabor y calidad.",
-                        imgSrc: "../src/img/imgFondFresa.png",
+                        imgSrc: "https://i.postimg.cc/x8LPQx94/img-Fond-Fresa.png",
                     },
                     {
                         title: "Cheese Nai's de Oreo",
                         description:
                             "Amarillo (en el cheesecake y las galletas): Representa la dulzura y la riqueza en sabor de los cheesecakes. Marrón (en el borde del logo y la base del cheesecake): Representa Celeste (en el fondo del círculo): representa confianza y tranquilidad, asegurando a los clientes un producto consistente y confiable en sabor y calidad.",
-                        imgSrc: "../src/img/imgFondOreo.png",
+                        imgSrc: "https://i.postimg.cc/J4WqxLqV/img-Fond-Oreo.png",
                     },
                     {
                         title: "Cheese Nai's de Limon",
                         description:
                             "Amarillo (en el cheesecake): Representa que cada bocado está lleno de un sabor delicioso e inigualable. Verde (en las rodajas de limón): Representa frescura y la naturalidad de los ingredientes que se utilizan, asegurando productos de alta calidad. Celeste (en el fondo del círculo): Representa confianza y tranquilidad, asegurando a los clientes un producto consistente y confiable en sabor y calidad",
-                        imgSrc: "../src/img/imgFondLimon.png",
+                        imgSrc: "https://i.postimg.cc/pVjCKTKJ/img-Fond-Limon.png",
                     },
                     {
                         title: "Cheese Nai's",
                         description:
                             "Garantizamos a los clientes pasar un buen tiempo con familia o amigos degustando de los cheesecakes que ofrecen dulzura y variedad de sabores característicos que los distinguen de otros cheesecakes. Son saludables, tradicionales y personalizados dependiendo de lo que desee el cliente. ",
-                        imgSrc: "../src/img/imgLogo.png",
+                        imgSrc: "https://i.postimg.cc/xCzvGxN1/img-Products.jpg",
                     },
                 ].map((card, index) => (
                     <div
@@ -82,7 +82,7 @@ function SectionPrice() {
                         >
                             <img
                                 className="object-cover object-center w-full h-full rounded-full"
-                                src="../src/img/imgLogoC.png"
+                                src="https://i.postimg.cc/xYNtwsBN/imgLogoC.png"
                                 alt="Buy me a beer"
                             />
                         </a>

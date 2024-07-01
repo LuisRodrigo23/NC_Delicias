@@ -5,7 +5,7 @@ import SectionPrice from './SectionPrice';
 function MotionCards() {
     const [currentIndex, setCurrentIndex] = useState(1);
     const images = [
-        '../src/img/imgOreoPl.jpg',
+        'https://i.postimg.cc/q7gXqMkn/img-Oreo-Pl.jpg',
         'https://images.unsplash.com/photo-1613067532415-90df85362423?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
         'https://images.unsplash.com/photo-1588433899519-0d55a844d159?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
         'https://images.unsplash.com/photo-1631857455684-a54a2f03665f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',

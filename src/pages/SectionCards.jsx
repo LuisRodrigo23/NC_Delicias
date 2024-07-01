@@ -23,7 +23,7 @@ function SectionCards() {
                     <div className="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4">
                         <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
                             <div className="rounded-lg h-[30rem] overflow-hidden">
-                                <img alt="content" className="object-cover object-center h-auto w-full" src="../src/img/imgProducts.jpg" />
+                                <img alt="content" className="object-cover object-center h-auto w-full" src="https://i.postimg.cc/vZ0tG6db/img-Fresas-Con-In.jpg" />
                             </div>
                             <h2 className="text-xl font-medium title-font text-white mt-5">Divisas</h2>
                             <p className="text-base leading-relaxed mt-2">
@@ -37,7 +37,7 @@ function SectionCards() {
                         </div>
                         <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
                             <div className="rounded-lg h-[30rem] overflow-hidden">
-                                <img alt="content" className="object-cover object-center h-full w-full" src="../src/img/imgFresas.jpg" />
+                                <img alt="content" className="object-cover object-center h-full w-full" src="https://i.postimg.cc/x8VK6vLy/img-Fresas.jpg" />
                             </div>
                             <h2 className="text-xl font-medium title-font text-white mt-5">Transferencias</h2>
                             <p className="text-base leading-relaxed mt-2">
@@ -52,7 +52,7 @@ function SectionCards() {
 
                         <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
                             <div className="rounded-lg h-[30rem] overflow-hidden">
-                                <img alt="content" className="object-cover object-center h-full w-full" src="../src/img/imgFresasConIn.jpg" />
+                                <img alt="content" className="object-cover object-center h-full w-full" src="https://i.postimg.cc/xCzvGxN1/img-Products.jpg" />
                             </div>
                             <h2 className="text-xl font-medium title-font text-white mt-5">Transferencias</h2>
                             <p className="text-base leading-relaxed mt-2">

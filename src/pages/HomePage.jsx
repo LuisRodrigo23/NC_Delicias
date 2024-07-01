@@ -69,7 +69,7 @@ function HomePage() {
 
                                     <div className='w-[full] h-full'>
                                         <div className="mt-5">
-                                            <img className="w-auto h-auto rounded-md mx-[auto]" src="../src/assets/iconSvg2.svg"
+                                            <img className="w-auto h-auto rounded-md mx-[auto]" src="../public/iconSvg2.svg"
                                                 alt="Graphic Design" />
                                         </div>
                                     </div>

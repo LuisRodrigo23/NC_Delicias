@@ -10,19 +10,19 @@ function SectionPrice() {
                     {
                         title: "Cheese Nai's de Fresa",
                         description:
-                            "Rojo (en las fresas y el borde del logo): Simboliza la pasión y el amor en la preparación de cada cheesecakes. Amarillo (en el cheesecake): Representa que cada bocado está lleno de un sabor delicioso e inigualable. Celeste (en el fondo del círculo): Representa confianza y tranquilidad, asegurando a los clientes un producto consistente y confiable en sabor y calidad.",
+                            "Contiene una base con una base hecha de galletas trituradas, proporciona una textura suave del relleno. La capa principal es un relleno de queso crema, incluyendo leche condensada, gelatina sin sabor y un toque de esencia de vainilla. Encima del relleno, se colocan fresas frescas o una salsa de fresa. Las fresas pueden estar cortadas en rodajas o dispuestas enteras. La salsa de fresa aporta un sabor dulce y ácido que combina perfectamente con el queso.",
                         imgSrc: "https://i.postimg.cc/x8LPQx94/img-Fond-Fresa.png",
                     },
                     {
                         title: "Cheese Nai's de Oreo",
                         description:
-                            "Amarillo (en el cheesecake y las galletas): Representa la dulzura y la riqueza en sabor de los cheesecakes. Marrón (en el borde del logo y la base del cheesecake): Representa Celeste (en el fondo del círculo): representa confianza y tranquilidad, asegurando a los clientes un producto consistente y confiable en sabor y calidad.",
+                            "Contiene una base con una base hecha de galletas trituradas de oreo. La capa principal es un relleno de queso crema, incluyendo leche condensada, gelatina sin sabor, un toque de esencia de vainilla y relleno con trozos de galleta oreo. Encima del relleno, cubrimos con galletas en trocitos.",
                         imgSrc: "https://i.postimg.cc/J4WqxLqV/img-Fond-Oreo.png",
                     },
                     {
                         title: "Cheese Nai's de Limon",
                         description:
-                            "Amarillo (en el cheesecake): Representa que cada bocado está lleno de un sabor delicioso e inigualable. Verde (en las rodajas de limón): Representa frescura y la naturalidad de los ingredientes que se utilizan, asegurando productos de alta calidad. Celeste (en el fondo del círculo): Representa confianza y tranquilidad, asegurando a los clientes un producto consistente y confiable en sabor y calidad",
+                            "Contiene una base con una base hecha de galletas trituradas, proporcionando una textura suave del relleno, la capa de queso incluye una mezcla de limón, leche condensada, gelatina sin sabor y un toque de vainilla, por lo que combina la cremosidad del queso crema con la frescura del limón. Encima del relleno incluye un decorado con ralladura de limón.",
                         imgSrc: "https://i.postimg.cc/pVjCKTKJ/img-Fond-Limon.png",
                     },
                     {

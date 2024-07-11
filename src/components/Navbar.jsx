@@ -22,7 +22,7 @@ function Navbar() {
         <>
             <header style={{ backgroundColor: 'white', transition: 'background-color 0.3s ease' }}
                 className='fixed top-0 w-full bg-white shadow-lg z-10'>
-                <div className="py-10 px-2 lg:mx-4 xl:mx-12">
+                <div className="py-10 max-[1000px]:py-[1.5rem] px-2 lg:mx-4 xl:mx-12">
                     <div className="">
                         <nav className="relative flex items-center justify-between flex-wrap">
                             <div className="block lg:hidden">
@@ -34,7 +34,9 @@ function Navbar() {
                                         <title>Menu</title>
                                         <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
                                     </svg>
-                                    <h1 className='text-gray-700 font-bold ml-[30px] text-xl'>Nc Delicias</h1>
+                                    <a href="/">
+                                        <h1 className='text-gray-700 font-bold ml-[30px] text-xl'>Nc Delicias</h1>
+                                    </a>
                                 </button>
                             </div>
                             <div id="main-nav" className={`w-full flex-grow lg:flex items-center lg:w-auto ${isMenuOpen ? 'block' : 'hidden'}`}>
@@ -60,7 +62,7 @@ function Navbar() {
                                 </div>
                             </div>
                             <div className="absolute left-[90%] transform -translate-x-1/2 h-[7.1rem] flex items-center justify-center w-full ml-full">
-                                <img src="https://i.postimg.cc/zvwT6yjm/448427755-1248364163239611-6793991713541956325-n-removebg-2.png" alt="Logo" className="h-[6rem] w-auto mr-[45px]" />
+                                <img src="https://i.postimg.cc/zvwT6yjm/448427755-1248364163239611-6793991713541956325-n-removebg-2.png" alt="Logo" className="h-[5rem] w-auto mr-[55px] " />
                             </div>
                         </nav>
                     </div>
